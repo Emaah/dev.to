@@ -1,4 +1,4 @@
-PP_DOMAIN: "thecommunitytest.herokuapp.com"
+APP_DOMAIN: "thecommunitytest.herokuapp.com"
 APP_PROTOCOL: "http://"
 
 SECRET_KEY_BASE: "123456789pppp"

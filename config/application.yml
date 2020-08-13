@@ -1,4 +1,4 @@
-APP_DOMAIN: "thecommunitytest.herokuapp.com"
+APP_DOMAIN: "localhost:3000"
 APP_PROTOCOL: "http://"
 
 SECRET_KEY_BASE: "123456789pppp"
